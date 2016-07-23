@@ -1,0 +1,3 @@
+local Config = {};
+
+return Config;
