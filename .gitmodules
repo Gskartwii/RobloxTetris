@@ -1,3 +1,6 @@
 [submodule "submodules/rodux"]
 	path = submodules/rodux
 	url = https://www.github.com/Roblox/rodux
+[submodule "submodules/rodash"]
+	path = submodules/rodash
+	url = https://github.com/CodeKingdomsTeam/rodash.git
